@@ -1,0 +1,3 @@
+[submodule "dep/gnuradio"]
+	path = dep/gnuradio
+	url = git@github.com:wgledbetter/gnuradio.git
